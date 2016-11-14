@@ -1,0 +1,15 @@
+{
+  "name": "yalo-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qraphql",
+    "mongodb"
+  ],
+  "author": "Vadim Yalovenko <yalovek@ya.ru>",
+  "license": "MIT"
+}
