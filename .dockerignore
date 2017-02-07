@@ -1,7 +1,18 @@
+# OS X
 .DS_Store
+
+# Git
 .git
 .gitignore
-.editorconfig
+
+# Node
+
+## Dependency directories
 node_modules
+
+## Logs
 npm-debug.log
+
+# Dev files
+.editorconfig
 README.md
